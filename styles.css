@@ -1,0 +1,65 @@
+body {
+  color: #222;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.navbar-brand {
+  color: #24543b;
+  font-weight: bold;
+}
+
+.navbar-brand:hover {
+  color: #193b29;
+}
+
+.site-content {
+  max-width: 900px;
+}
+
+.intro {
+  padding: 48px 0 32px;
+}
+
+.intro h1 {
+  margin-bottom: 12px;
+}
+
+.intro p {
+  max-width: 600px;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.info {
+  padding: 20px 0;
+  border-top: 1px solid #ddd;
+}
+
+.info h2 {
+  margin-bottom: 8px;
+  font-size: 24px;
+}
+
+.info p {
+  margin: 6px 0;
+}
+
+.site-footer {
+  margin-top: 20px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-top: 1px solid #ddd;
+  color: #555;
+  font-size: 14px;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+@media (max-width: 480px) {
+  .intro {
+    padding-top: 36px;
+  }
+}
