@@ -1,6 +1,6 @@
-# Ezra's Pi Club
+# OTHS's Pi Club
 
-A responsive, single-page website for Ezra's Pi Club. It shares the club's usual
+A responsive, multi-page website for OTHS's Pi Club. It shares the club's usual
 Wednesday meeting details, competition updates, and quick answers for prospective
 members.
 
